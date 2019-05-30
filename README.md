@@ -12,7 +12,7 @@ program. After that you simply feed the data in the neural network to train the 
 ### Prerequisites
 
 It is assumed that you are familiar to Python and its one of the most important library - Numpy. You need to install both of
-them on your system. It will be better if you have some knowledge of plotting graphs. I will soon cover matplotlib also.
+them on your system. It will be better if you have some knowledge of scikit-learn and plotting graphs. I will soon cover sklearn and matplotlib also.
 
 ### Installing
 
